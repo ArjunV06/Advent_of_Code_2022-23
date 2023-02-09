@@ -57,6 +57,7 @@ public class Day2P1
                     score+=3;
                 }
             }
+            //hi :D
             else //scissor
             {
                 score+=3;

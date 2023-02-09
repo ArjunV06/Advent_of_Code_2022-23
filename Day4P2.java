@@ -28,7 +28,7 @@ public class Day4P2
             int indexDashTwo = secondHalf.indexOf("-");
             int low2 = Integer.parseInt(secondHalf.substring(0,indexDashTwo));
             int high2 = Integer.parseInt(secondHalf.substring(indexDashTwo+1));
-
+//hello
             if(high1>=low2 && high1<=high2)
             {
                 total++;
